@@ -1,13 +1,16 @@
 
 class Application{
     public static void main(String... args){
-        int a = 5;
-        int b = 10;
-        int c = a+b;
+        System.out.println("Welcome to Mechanicsberg");
+        int a = 15;
+        int b = 20;
+        int c = b-a;
         System.out.println(c);
         System.out.println("This is application class");
         System.out.println("This is application class");
         System.out.println("This is application class");
+        
+        
     }
 }
 
