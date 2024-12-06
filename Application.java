@@ -2,7 +2,7 @@
 class Application{
     public static void main(String... args){
 
-        System.out.println("Welcome to Canada");
+        System.out.println("Welcome to Canada-Ottawa");
         int a = 60;
         int b = 90;
         int c = a*b;
