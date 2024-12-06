@@ -13,6 +13,8 @@ class Application{
         System.out.println("This is application class");
         System.out.println("This is application class");
         System.out.println("This is application class");
+        String name = "Niharika";
+        String lastname = "Voodem";
         
         
     }
