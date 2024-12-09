@@ -1,3 +1,7 @@
 Sachin
 Dhoni
 Ganguly
+
+public void m2(){
+   System.out.println("Hello How are you!!!");
+}
